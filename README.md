@@ -1,8 +1,3 @@
-<!--
-  Este archivo es la plantilla del README para el repo PÚBLICO de vitrina
-  (gepres/screenpencil-releases). Renómbralo a README.md al subirlo allí.
-  NO subas aquí ningún código fuente: solo este README y los releases.
--->
 <h1 align="center">ScreenPencil</h1>
 
 <p align="center">
@@ -21,7 +16,7 @@
 ## Descargar
 
 Ve a **[Releases](https://github.com/gepres/screenpencil-releases/releases/latest)**
-y descarga el instalador más reciente:
+y descarga el instalador más reciente (el badge de arriba muestra la versión actual):
 
 ```
 ScreenPencil-Setup-X.Y.Z.exe
@@ -34,13 +29,15 @@ ScreenPencil-Setup-X.Y.Z.exe
 ## Qué es
 
 App de escritorio para Windows que coloca un lienzo transparente sobre toda la
-pantalla para dibujar, resaltar, escribir texto, hacer spotlight, lupa, pizarra y
-más. Pensada como alternativa gratuita estilo *ScreenBrush* para Windows.
+pantalla para dibujar, resaltar, escribir texto, y usar spotlight, lupa, pizarra,
+badges numerados y más. Pensada como alternativa gratuita estilo *ScreenBrush* para Windows.
+
+> **¿Otra plataforma?** Las versiones de **macOS** y **Linux** están en camino.
 
 ## Enlaces
 
 - 🌐 **Web:** https://gepres.github.io/screenpencil-landing/
-- 💛 **Apóyalo:** (PayPal — añade tu enlace aquí)
+- 💛 **Apóyalo (PayPal):** https://www.paypal.com/paypalme/gepresdonacion
 
 ---
 

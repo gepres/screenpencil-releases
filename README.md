@@ -1,7 +1,7 @@
 <h1 align="center">ScreenPencil</h1>
 
 <p align="center">
-  Dibuja y anota sobre toda la pantalla en Windows 10/11 — gratis.
+  Dibuja y anota sobre toda la pantalla — Windows, macOS y Linux. Gratis.
 </p>
 
 <p align="center">
@@ -32,13 +32,27 @@ ScreenPencil-Setup-X.Y.Z.exe
 
 Disponible en la **[Mac App Store](https://apps.apple.com/pe/app/screenpencil/id6778615274?l=en-GB&mt=12)**.
 
+### Linux (experimental)
+
+Descarga **`ScreenPencil-0.2.1-linux-x64.tar.gz`** desde **[Releases](https://github.com/gepres/screenpencil-releases/releases/latest)** (self-contained, no necesitas instalar .NET):
+
+```bash
+tar -xzf ScreenPencil-0.2.1-linux-x64.tar.gz
+chmod +x ScreenPencil
+./ScreenPencil
+```
+
+> Para **X11** (GNOME, KDE, XFCE). El overlay, el dibujo y los atajos funcionan; la **captura de
+> pantalla** es **experimental** (con compositor activo el fondo puede salir negro — en progreso).
+> Mantén `ScreenPencil`, `libSkiaSharp.so` y `libHarfBuzzSharp.so` en la misma carpeta.
+
 ## Qué es
 
 App de escritorio para Windows que coloca un lienzo transparente sobre toda la
 pantalla para dibujar, resaltar, escribir texto, y usar spotlight, lupa, pizarra,
 badges numerados y más. Pensada como alternativa gratuita estilo *ScreenBrush* para Windows.
 
-> **¿Otra plataforma?** **macOS** ya está disponible en la [Mac App Store](https://apps.apple.com/pe/app/screenpencil/id6778615274?l=en-GB&mt=12). La versión de **Linux** está en camino.
+> **¿Otra plataforma?** **macOS** en la [Mac App Store](https://apps.apple.com/pe/app/screenpencil/id6778615274?l=en-GB&mt=12) · **Linux** (experimental) en [Releases](https://github.com/gepres/screenpencil-releases/releases/latest) · **Android** próximamente.
 
 ## Enlaces
 
